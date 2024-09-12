@@ -1,3 +1,17 @@
+# [1.0.0](https://github.com/julianBogado1/ConventionalCommitsTest/compare/v0.3.0...v1.0.0) (2024-09-12)
+
+
+### Features
+
+* the feature ([1da0aca](https://github.com/julianBogado1/ConventionalCommitsTest/commit/1da0aca9d622233002d1186d21b895497608f76b))
+
+
+### BREAKING CHANGES
+
+* the breaking change
+
+
+
 # [0.3.0](https://github.com/julianBogado1/ConventionalCommitsTest/compare/v0.2.0...v0.3.0) (2024-09-12)
 
 

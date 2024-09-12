@@ -1,4 +1,13 @@
-# 0.1.0 (2024-09-12)
+# [0.2.0](https://github.com/julianBogado1/ConventionalCommitsTest/compare/v0.1.0...v0.2.0) (2024-09-12)
+
+
+### Features
+
+* new feat added\nBREAKING CHANGE: totally a breking change ([cabaef1](https://github.com/julianBogado1/ConventionalCommitsTest/commit/cabaef154a74f28c7c7499bfd0a1b5be22e7e8e1))
+
+
+
+# [0.1.0](https://github.com/julianBogado1/ConventionalCommitsTest/compare/2df04acd4d4a6bd5c31d499b6aa227fbda68ab8c...v0.1.0) (2024-09-12)
 
 
 ### Bug Fixes

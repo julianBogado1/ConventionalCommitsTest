@@ -1,3 +1,12 @@
+# [0.3.0](https://github.com/julianBogado1/ConventionalCommitsTest/compare/v0.2.0...v0.3.0) (2024-09-12)
+
+
+### Features
+
+* breaking change BREAKING CHANGE: the actual breaking change ([dd85c58](https://github.com/julianBogado1/ConventionalCommitsTest/commit/dd85c580336639d2d66d2e94b4df7a35190d7b2b))
+
+
+
 # [0.2.0](https://github.com/julianBogado1/ConventionalCommitsTest/compare/v0.1.0...v0.2.0) (2024-09-12)
 
 
